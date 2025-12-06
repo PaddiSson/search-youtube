@@ -3,7 +3,7 @@
   "name": "Right-click to search YouTube",
   "browser_specific_settings": {
     "gecko": {
-      "id": "@search-youtube.padd_",
+      "id": "@right-click-search-youtube.padd_",
       "data_collection_permissions": {
         "required": ["none"]
       }
