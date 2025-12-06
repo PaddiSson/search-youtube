@@ -1,4 +1,4 @@
-# Search on Youtube
+# Right-click to search YouTube
 
 This extension is provided free of charge and is royalty-free. You are authorized to use, copy, modify, and distribute this extension without any restrictions.
 

@@ -1,4 +1,4 @@
-# Search on Youtube
+# Right-click to search YouTube
 
 Search for selected text directly on YouTube: use the context menu to search YouTube for any text selected from a web page.
 
