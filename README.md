@@ -2,6 +2,8 @@
 
 Search for selected text directly on YouTube: use the context menu to search YouTube for any text selected from a web page.
 
+- [Firefox add-on](https://addons.mozilla.org/firefox/addon/right-click-to-search-youtube/)
+
 ---
 
 ## Installation
